@@ -1,0 +1,29 @@
+# Entornos virtuales
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos temporales y compilados
+*.log
+*.tmp
+*.bak
+
+# Modelos, pesos y salidas
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+
+# Datasets y salidas
+data/
+results/
+outputs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook
+*.nbconvert.ipynb
