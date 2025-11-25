@@ -17,9 +17,9 @@ __pycache__/
 *.onnx
 
 # Datasets y salidas
-Datasets/
-results/
-outputs/
+Datasets/Real-world/
+Datasets/Synthetic-data/outputs/
+
 
 # IDEs
 .vscode/
