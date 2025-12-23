@@ -19,7 +19,7 @@ __pycache__/
 # Datasets y salidas
 Datasets/Real-world/
 Datasets/Synthetic-data/outputs/
-
+Datasets/MIMIC-III
 
 # IDEs
 .vscode/
