@@ -16,10 +16,12 @@ __pycache__/
 *.h5
 *.onnx
 
-# Datasets y salidas
+# Datasets grandes
+Datasets/
 Datasets/Real-world/
+Datasets/MIMIC-III/
 Datasets/Synthetic-data/outputs/
-Datasets/MIMIC-III
+*.csv
 
 # IDEs
 .vscode/
